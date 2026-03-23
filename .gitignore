@@ -1,0 +1,14 @@
+# Compiled Java class files
+*.class
+
+# Output files
+output.txt
+output_ansi.txt
+
+# IDE / OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Keep screenshots and txt data files
