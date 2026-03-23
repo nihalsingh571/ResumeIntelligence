@@ -1,0 +1,19 @@
+Name: Bob Smith
+Email: bob.smith@email.com
+
+Skills: Java, Docker, MongoDB, SQL
+
+Experience: 2 years
+- Software Engineer at StartupHub (2022-2024)
+- Built backend services in Java
+- Maintained MongoDB and SQL databases
+- Containerized services using Docker
+
+Projects:
+- Blog Platform: RESTful blog backend using Java and MongoDB.
+- Task Manager: Simple task management tool with Java and SQL.
+
+Certifications:
+- MongoDB Developer Certification
+
+Keywords: backend, database, java, developer, rest

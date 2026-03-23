@@ -1,0 +1,26 @@
+Name: John Doe
+Email: john.doe@email.com
+Phone: +91-9876543210
+
+Objective:
+A motivated software developer seeking opportunities to apply Java and web development skills.
+
+Skills: Java, React, Docker, SQL, Git
+
+Experience: 2 years
+- Worked as a Junior Developer at TechCorp (2022-2024)
+- Developed REST APIs using Java
+- Handled database queries with SQL
+
+Education:
+- B.E. Computer Engineering, XYZ University, 2024
+
+Projects:
+- E-commerce Website: Built a full-stack e-commerce platform using Java and React.
+- Chat Application: Real-time chat app using Java sockets and React frontend.
+
+Certifications:
+- Oracle Java SE 8 Certified
+- Docker Fundamentals
+
+Keywords: developer, software, backend, frontend, agile, teamwork, problem-solving

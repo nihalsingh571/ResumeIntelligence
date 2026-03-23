@@ -1,0 +1,14 @@
+Name: Carol White
+Email: carol.white@email.com
+
+Skills: Python, SQL, Git
+
+Experience: 1 year
+- Intern at DataCo (2023-2024)
+- Wrote data processing scripts in Python
+- Managed simple SQL databases
+
+Projects:
+- Student Grade Tracker: Python script to track grades using CSV files.
+
+Keywords: python, data, beginner, sql

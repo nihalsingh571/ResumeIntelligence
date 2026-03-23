@@ -1,0 +1,21 @@
+Name: Alice Johnson
+Email: alice.j@email.com
+
+Skills: Java, Spring, Docker, AWS, Kubernetes, Microservices, SQL, Git
+
+Experience: 4 years
+- Senior Developer at CloudTech (2020-2024)
+- Designed microservices architecture using Java and Spring Boot
+- Deployed containers on AWS with Kubernetes
+- Managed SQL databases and optimized queries
+
+Projects:
+- Cloud Deployment Pipeline: Automated CI/CD pipeline using Docker and Kubernetes.
+- Inventory Management System: Microservices-based inventory system using Spring and Java.
+- Analytics Dashboard: Real-time analytics using AWS and Java.
+
+Certifications:
+- AWS Solutions Architect Associate
+- Kubernetes Administrator (CKA)
+
+Keywords: cloud, devops, backend, distributed, agile, leadership, scalable
