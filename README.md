@@ -185,11 +185,11 @@ The Swing window will open immediately.
 ## 👨‍💻 Author
 
 **Nihal Kumar Singh**
-Final Year Engineering — Computer Science
+Engineering — Computer Science
 *AI-Powered Resume Intelligence System using Core Java*
 
 ---
 
 ## 📄 License
 
-This project is developed for academic purposes as a Final Year Engineering Demonstration Project.
+This project is developed for academic purposes as a Demonstration Project.
